@@ -1,0 +1,13 @@
+@font-face { 
+    font-family: 'folksbold';
+    src: url('police/Folks-Bold-webfont.eot');
+    src: url('police/Folks-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('police/Folks-Bold-webfont.woff') format('woff'),
+         url('police/Folks-Bold-webfont.ttf') format('truetype'),
+         url('police/Folks-Bold-webfont.svg#folksbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+body{
+font-family: 'folksbold';
+    }
